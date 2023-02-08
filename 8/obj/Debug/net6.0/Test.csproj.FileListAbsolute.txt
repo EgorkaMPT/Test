@@ -1,0 +1,17 @@
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Test\bin\Debug\net6.0\Test.exe
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Test\bin\Debug\net6.0\Test.deps.json
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Test\bin\Debug\net6.0\Test.runtimeconfig.json
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Test\bin\Debug\net6.0\Test.dll
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Test\bin\Debug\net6.0\Test.pdb
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Test\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Test\obj\Debug\net6.0\Test.csproj.AssemblyReference.cache
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Test\obj\Debug\net6.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Test\obj\Debug\net6.0\Test.AssemblyInfoInputs.cache
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Test\obj\Debug\net6.0\Test.AssemblyInfo.cs
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Test\obj\Debug\net6.0\Test.csproj.CoreCompileInputs.cache
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Test\obj\Debug\net6.0\Test.csproj.CopyComplete
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Test\obj\Debug\net6.0\Test.dll
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Test\obj\Debug\net6.0\refint\Test.dll
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Test\obj\Debug\net6.0\Test.pdb
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Test\obj\Debug\net6.0\Test.genruntimeconfig.cache
+C:\Users\Home\OneDrive\Рабочий стол\Шарп\Test\obj\Debug\net6.0\ref\Test.dll
